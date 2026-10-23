@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Common Rail Test Bench",
+    "slug": "common-rail-test-bench",
+    "description": "High-precision common rail injector and pump test benches with flow sensor technology.",
+    "productCount": 41
+  },
+  {
+    "name": "Tester",
+    "slug": "tester",
+    "description": "Specialized electronic testers for common rail injectors, sensors, and actuators.",
+    "productCount": 17
+  },
+  {
+    "name": "Disassembly Tool",
+    "slug": "disassembly-tool",
+    "description": "Precision disassembly and assembly tools for diesel injectors and pumps.",
+    "productCount": 51
+  },
+  {
+    "name": "Bosch Original Parts",
+    "slug": "bosch-original-parts",
+    "description": "Genuine and original Bosch diesel injectors, pumps, nozzles, and valve assemblies.",
+    "productCount": 52
+  },
+  {
+    "name": "Denso Original Parts",
+    "slug": "denso-original-parts",
+    "description": "Original Denso diesel common rail injectors, supply pumps, and orifice valve plates.",
+    "productCount": 51
+  },
+  {
+    "name": "Delphi Original Parts",
+    "slug": "delphi-original-parts",
+    "description": "Original Delphi common rail control valves, repair kits, and drive shafts.",
+    "productCount": 48
+  }
+]

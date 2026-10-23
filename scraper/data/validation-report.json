@@ -1,0 +1,48 @@
+{
+  "scrapedAt": "2026-10-23T07:56:48.045Z",
+  "totalProducts": 260,
+  "totalNews": 52,
+  "missingProductFields": {
+    "title": 0,
+    "sourceUrl": 0,
+    "imageUrl": 0,
+    "partNumber": 33,
+    "brand": 91,
+    "description": 18
+  },
+  "missingNewsFields": {
+    "title": 0,
+    "sourceUrl": 0,
+    "imageUrl": 32,
+    "publishedDate": 0,
+    "excerpt": 0
+  },
+  "duplicateSourceUrls": [],
+  "sharedPartNumbers": [
+    {
+      "partNumber": "0445110248",
+      "count": 3
+    },
+    {
+      "partNumber": "295050-0890",
+      "count": 2
+    },
+    {
+      "partNumber": "095000-5550",
+      "count": 2
+    },
+    {
+      "partNumber": "28229873",
+      "count": 2
+    },
+    {
+      "partNumber": "28258683",
+      "count": 2
+    },
+    {
+      "partNumber": "28602948",
+      "count": 2
+    }
+  ],
+  "suspiciousBrands": []
+}

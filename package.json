@@ -1,0 +1,34 @@
+{
+  "name": "sparein-evaluation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "scrape": "node scraper/scraper.js",
+    "seed": "node server/seed.js",
+    "test": "node --test tests/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suhail-code8/sparein-evaluation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suhail-code8/sparein-evaluation/issues"
+  },
+  "homepage": "https://github.com/Suhail-code8/sparein-evaluation#readme",
+  "dependencies": {
+    "axios": "^1.20.0",
+    "cheerio": "^1.2.0",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "mongoose": "^9.11.3"
+  },
+  "devDependencies": {
+    "supertest": "^7.3.1"
+  }
+}
