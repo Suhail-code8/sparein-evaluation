@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://YOUR_RENDER_SERVICE_NAME.onrender.com/api/:path*"
+      "destination": "https://sparein-api.onrender.com/api/:path*"
     }
   ]
 }
